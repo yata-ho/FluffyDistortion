@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>風刺 on ふわふわディストーション</title>
+    <link>http://localhost:1313/tags/%E9%A2%A8%E5%88%BA/</link>
+    <description>Recent content in 風刺 on ふわふわディストーション</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%A2%A8%E5%88%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「かわいい」って何？</title>
+      <link>http://localhost:1313/posts/anti_kawaii/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/anti_kawaii/</guid>
+      <description>コミュニケーションのための誠実な疑問。</description>
+    </item>
+    <item>
+      <title>お坊さんへの疑問</title>
+      <link>http://localhost:1313/posts/budda_and_hack/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/budda_and_hack/</guid>
+      <description>親切さと真心のサービス。</description>
+    </item>
+    <item>
+      <title>藪の中</title>
+      <link>http://localhost:1313/posts/yabunonaka_vr/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/yabunonaka_vr/</guid>
+      <description>必ずしも悪いことじゃないはず。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,16 +1,19 @@
-+++
-date = '2025-04-26'
-title = "開場のお知らせ"
-summary = "ふわふわディストーションが始まった！"
-tag = ["notive"]
-categories = ["お知らせ"]
-showToc = true
-ShowBreadCrumbs = true
-ShowReadingTime = true
+---
 
-+++
+date: "2025-04-26"
+title: "開場のお知らせ"
+summary: "ふわふわディストーションが始まった！"
+categories : ["お知らせ"]
+showToc: true
+ShowBreadCrumbs: true
+ShowReadingTime: true
+weight: 1
+
+---
 
 プラットフォームに依存しない、書くための居場所がほしいなと思って開設しました。
 noteに向いていない記事を投稿する先を作りたいって目的もある。短いものとか、長すぎるものとか。
 
-テストも兼ねて文字を入力しているだけなので、それだけです。
+たぶん、noteに投稿している記事もこっちに保存するかもしれません。優先度低め。新しいものを作らない保守はやる気が起きないからね……。
+
+では、お知らせは以上です。

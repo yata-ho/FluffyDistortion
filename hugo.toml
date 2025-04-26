@@ -1,23 +1,48 @@
 baseURL = 'https://fluffydistortion.netlify.app'
 theme = "PaperMod"
 languageCode = 'ja'
+defaultContentLanguage = "ja"
+timezone = "Asia/Tokyo"
 title = 'ふわふわディストーション'
 
-[manu]
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+
+[menu]
     [[menu.main]]
         name = "Home"
         url = "/"
-        weight = 1
-    [[manu.main]]
+        weight = 10
+    [[menu.main]]
         name = "About"
         url = "/about/"
-        weight = 2
+        weight = 20
+    [[menu.main]]
+        name = "Posts"
+        url = "/posts/"
+        weight = 30
+    [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 40
+    [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 50
 
 [params]
   author = "yata"
   description = "趣味や考えをつらつら書き綴る場所"
   ShowReadingTime = true
   ShowShareButtons = false
+  ShowTags = true
+  ShowCategories = true
+  ShowPostNavLinks = true
+  ShowPostMeta = true
 
     [[params.socialIcons]]
         name = "twitter"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ナンセンス on ふわふわディストーション</title>
+    <link>http://localhost:1313/tags/%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9/</link>
+    <description>Recent content in ナンセンス on ふわふわディストーション</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ポストモダン</title>
+      <link>http://localhost:1313/posts/modernpost/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/modernpost/</guid>
+      <description>いつになったらこのポストは撤去されるんだ？</description>
+    </item>
+    <item>
+      <title>音楽における真理</title>
+      <link>http://localhost:1313/posts/i_love_music/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/i_love_music/</guid>
+      <description>きっと誰しも自明であること。</description>
+    </item>
+    <item>
+      <title>宇宙戦争</title>
+      <link>http://localhost:1313/posts/marswars/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/marswars/</guid>
+      <description>戦いには、明確な境界線はつきもの。</description>
+    </item>
+  </channel>
+</rss>

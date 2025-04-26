@@ -6,14 +6,133 @@
     <description>Recent content on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>開場のお知らせ</title>
       <link>http://localhost:1313/posts/notice/</link>
-      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/notice/</guid>
-      <description>概要ってやつ～！</description>
+      <description>ふわふわディストーションが始まった！</description>
+    </item>
+    <item>
+      <title>ポストモダン</title>
+      <link>http://localhost:1313/posts/modernpost/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/modernpost/</guid>
+      <description>いつになったらこのポストは撤去されるんだ？</description>
+    </item>
+    <item>
+      <title>愛しの君よ</title>
+      <link>http://localhost:1313/posts/my_dear/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my_dear/</guid>
+      <description>愛が深いほど別れは辛いものだ。</description>
+    </item>
+    <item>
+      <title>暗号学</title>
+      <link>http://localhost:1313/posts/cryptography/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/cryptography/</guid>
+      <description>楽しみ方について学んでみよう。</description>
+    </item>
+    <item>
+      <title>音楽における真理</title>
+      <link>http://localhost:1313/posts/i_love_music/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/i_love_music/</guid>
+      <description>きっと誰しも自明であること。</description>
+    </item>
+    <item>
+      <title>誠実な告白</title>
+      <link>http://localhost:1313/posts/sufferer/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/sufferer/</guid>
+      <description>喜怒哀楽と、期待と諦めのセット。</description>
+    </item>
+    <item>
+      <title>脱構造主義</title>
+      <link>http://localhost:1313/posts/poststructuralism/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/poststructuralism/</guid>
+      <description>彼は今、偉大なる一歩を歩み始めた。</description>
+    </item>
+    <item>
+      <title>勇者と魔王</title>
+      <link>http://localhost:1313/posts/game_friend/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/game_friend/</guid>
+      <description>飽きが来ないための適切な処置。</description>
+    </item>
+    <item>
+      <title>「かわいい」って何？</title>
+      <link>http://localhost:1313/posts/anti_kawaii/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/anti_kawaii/</guid>
+      <description>コミュニケーションのための誠実な疑問。</description>
+    </item>
+    <item>
+      <title>お坊さんへの疑問</title>
+      <link>http://localhost:1313/posts/budda_and_hack/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/budda_and_hack/</guid>
+      <description>親切さと真心のサービス。</description>
+    </item>
+    <item>
+      <title>宇宙戦争</title>
+      <link>http://localhost:1313/posts/marswars/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/marswars/</guid>
+      <description>戦いには、明確な境界線はつきもの。</description>
+    </item>
+    <item>
+      <title>血統主義</title>
+      <link>http://localhost:1313/posts/bloodyhistory/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/bloodyhistory/</guid>
+      <description>生まれ持った才能だ。</description>
+    </item>
+    <item>
+      <title>最高なロック</title>
+      <link>http://localhost:1313/posts/greatful_rock/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/greatful_rock/</guid>
+      <description>耳をふさぎたくなるほど！</description>
+    </item>
+    <item>
+      <title>酒飲む二人</title>
+      <link>http://localhost:1313/posts/her_dig_him/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/her_dig_him/</guid>
+      <description>ダル絡み？酒を飲め。</description>
+    </item>
+    <item>
+      <title>精神治療</title>
+      <link>http://localhost:1313/posts/comfort_and_escape/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/comfort_and_escape/</guid>
+      <description>この治療の結果は患者に委ねられている。</description>
+    </item>
+    <item>
+      <title>哲学とロック</title>
+      <link>http://localhost:1313/posts/philos_and_rock/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/philos_and_rock/</guid>
+      <description>大したことではない。</description>
+    </item>
+    <item>
+      <title>同一性</title>
+      <link>http://localhost:1313/posts/same_one/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/same_one/</guid>
+      <description>二人で分かち合うこどで、一つになる。</description>
+    </item>
+    <item>
+      <title>藪の中</title>
+      <link>http://localhost:1313/posts/yabunonaka_vr/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/yabunonaka_vr/</guid>
+      <description>必ずしも悪いことじゃないはず。</description>
     </item>
   </channel>
 </rss>

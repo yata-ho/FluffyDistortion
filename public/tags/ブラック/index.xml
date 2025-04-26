@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ブラック on ふわふわディストーション</title>
+    <link>http://localhost:1313/tags/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/</link>
+    <description>Recent content in ブラック on ふわふわディストーション</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>血統主義</title>
+      <link>http://localhost:1313/posts/bloodyhistory/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/bloodyhistory/</guid>
+      <description>生まれ持った才能だ。</description>
+    </item>
+    <item>
+      <title>酒飲む二人</title>
+      <link>http://localhost:1313/posts/her_dig_him/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/her_dig_him/</guid>
+      <description>ダル絡み？酒を飲め。</description>
+    </item>
+  </channel>
+</rss>
