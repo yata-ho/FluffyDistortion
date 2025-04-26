@@ -1,4 +1,39 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fluffydistortion.netlify.app'
 theme = "PaperMod"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'ja'
+title = 'ふわふわディストーション'
+
+[manu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[manu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+
+[params]
+  author = "yata"
+  description = "趣味や考えをつらつら書き綴る場所"
+  ShowReadingTime = true
+  ShowShareButtons = false
+
+    [[params.socialIcons]]
+        name = "twitter"
+        url = "https://x.com/yata_3o1"
+
+    [params.profileMode]
+        enabled = true
+        title = "yata"   # プロフィールカードに出る名前
+        subtitle = "メタ、シニカル、ナンセンス" # キャッチコピー
+        imageUrl = "images/icon.png"  # アバター画像パス（static/配下）
+        imageWidth = 200  # アバターの幅（px）
+        imageHeight = 200  # アバターの高さ（px）
+        buttons = [
+        { name = "記事一覧", url = "/posts/" }
+        ]
+
+    [param.share]
+        enable = true
+        Twitter = true

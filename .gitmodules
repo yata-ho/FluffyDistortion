@@ -1,3 +1,9 @@
 [submodule "themes/PaperMod"]
   path = themes/PaperMod
   url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/themes/Tranquilpeak"]
+	path = themes/themes/Tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/Tranquilpeak"]
+	path = themes/Tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
