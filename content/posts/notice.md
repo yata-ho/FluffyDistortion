@@ -1,10 +1,9 @@
 +++
 date = '2025-04-26'
-draft = true
 title = "開場のお知らせ"
-summary = "概要ってやつ～！"
-tag = ["お知らせ"]
-categories = ["変なの"]
+summary = "ふわふわディストーションが始まった！"
+tag = ["notive"]
+categories = ["お知らせ"]
 showToc = true
 ShowBreadCrumbs = true
 ShowReadingTime = true
