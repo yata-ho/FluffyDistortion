@@ -1,6 +1,6 @@
 [build]
-  publish = public  # 公開ディレクトリを指定
-  command = hugo    # Hugoでビルドするコマンド
+  publish = "public"  # 公開ディレクトリを指定
+  command = "hugo"    # Hugoでビルドするコマンド
 
 [build.environment]
-  HUGO_VERSION = 0.146.7  # 必要に応じてHugoのバージョンを指定
+  HUGO_VERSION = "0.146.7"  # 必要に応じてHugoのバージョンを指定
