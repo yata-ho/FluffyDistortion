@@ -2,7 +2,7 @@
 date: "2025-04-26"
 title: "「かわいい」って何？"
 summary: "コミュニケーションのための誠実な疑問。"
-tags: ["風刺"]
+tags: ["風刺","疑問符"]
 categories: ["ユーモア"]
 showToc: true
 ShowBreadCrumbs: true
