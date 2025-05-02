@@ -5,22 +5,67 @@
     <loc>http://localhost:1313/posts/notice/</loc>
     <lastmod>2025-04-26T00:00:00+09:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/self-affirmation/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/diet/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/kawaii_dystopia/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how_old_are_you/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/character-nized/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%96%91%E5%95%8F%E7%AC%A6/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/100and0/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%9A%AE%E8%82%89/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E9%A2%A8%E5%88%BA/</loc>
+    <lastmod>2025-05-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/90percent/</loc>
+    <lastmod>2025-05-01T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/ressentiment/</loc>
+    <lastmod>2025-05-01T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%93%B2%E5%AD%A6/</loc>
+    <lastmod>2025-05-01T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/what_is_poem/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/philosophy_youtube/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%E3%82%AA%E3%82%BF%E3%82%AF/</loc>
@@ -29,19 +74,10 @@
     <loc>http://localhost:1313/tags/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E3%83%8A%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%B9/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/babel/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/beautiful_world/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/modernpost/</loc>
@@ -72,9 +108,6 @@
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/i_love_music/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E7%96%91%E5%95%8F%E7%AC%A6/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/red_burn/</loc>
@@ -110,13 +143,7 @@
     <loc>http://localhost:1313/posts/witch_knowledge/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/movie_and_philosophia/</loc>
-    <lastmod>2025-04-27T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E7%9A%AE%E8%82%89/</loc>
     <lastmod>2025-04-27T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/game_friend/</loc>
@@ -156,9 +183,6 @@
     <lastmod>2025-04-26T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/same_one/</loc>
-    <lastmod>2025-04-26T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E9%A2%A8%E5%88%BA/</loc>
     <lastmod>2025-04-26T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/yabunonaka_vr/</loc>

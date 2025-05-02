@@ -1,12 +1,9 @@
 ---
-date: 2025-04-26
-title: 同一性
-summary: 二人で分かち合うことで、一つになる。
-tags:
-  - メタ
-  - 皮肉
-categories:
-  - ユーモア
+date: "2025-04-26"
+title: "同一性"
+summary: "二人で分かち合うことで、一つになる。"
+tags: ["メタ","皮肉"]
+categories: ["ユーモア"]
 showToc: true
 ShowBreadCrumbs: true
 ShowReadingTime: true

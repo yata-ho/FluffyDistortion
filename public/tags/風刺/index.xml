@@ -6,8 +6,22 @@
     <description>Recent content in 風刺 on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E9%A2%A8%E5%88%BA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ダイエット</title>
+      <link>http://localhost:1313/posts/diet/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/diet/</guid>
+      <description>まずは目標の立て方から学ぼう。そして基礎、応用を知って……おい、どこに行くんだ！</description>
+    </item>
+    <item>
+      <title>擬人化大国</title>
+      <link>http://localhost:1313/posts/character-nized/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/character-nized/</guid>
+      <description>モノのインターネット化？うちではモノの人化が流行ってる。</description>
+    </item>
     <item>
       <title>「かわいい」って何？</title>
       <link>http://localhost:1313/posts/anti_kawaii/</link>

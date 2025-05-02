@@ -6,8 +6,57 @@
     <description>Recent content in 皮肉 on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E7%9A%AE%E8%82%89/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「自己肯定感」って何？</title>
+      <link>http://localhost:1313/posts/self-affirmation/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/self-affirmation/</guid>
+      <description>済んだ空気で深呼吸をしよう。そしたら毒を浄化できるし、また溜め込める。</description>
+    </item>
+    <item>
+      <title>ダイエット</title>
+      <link>http://localhost:1313/posts/diet/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/diet/</guid>
+      <description>まずは目標の立て方から学ぼう。そして基礎、応用を知って……おい、どこに行くんだ！</description>
+    </item>
+    <item>
+      <title>ディストピアって可愛くね？</title>
+      <link>http://localhost:1313/posts/kawaii_dystopia/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/kawaii_dystopia/</guid>
+      <description>BIGSISTERがキミを見ているよ。かわいいね！</description>
+    </item>
+    <item>
+      <title>何歳？</title>
+      <link>http://localhost:1313/posts/how_old_are_you/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/how_old_are_you/</guid>
+      <description>欲しいものリストを公開しておくといい。そう、もっと深いところの。</description>
+    </item>
+    <item>
+      <title>作品査定</title>
+      <link>http://localhost:1313/posts/100and0/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/100and0/</guid>
+      <description>作り直してくれ！このブラックボックスはバグが多いんだ。</description>
+    </item>
+    <item>
+      <title>9割の人が知らないなにか</title>
+      <link>http://localhost:1313/posts/90percent/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/90percent/</guid>
+      <description>誤った統計学か、驚愕の事実か。</description>
+    </item>
+    <item>
+      <title>ルサンチマン</title>
+      <link>http://localhost:1313/posts/ressentiment/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/ressentiment/</guid>
+      <description>僻みのウロボロス。シーソーで遊ぶように仲がいいのかもしれない。</description>
+    </item>
     <item>
       <title>Youtubeホーム画面</title>
       <link>http://localhost:1313/posts/philosophy_youtube/</link>
@@ -48,7 +97,7 @@
       <link>http://localhost:1313/posts/after_world/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/after_world/</guid>
-      <description>空白。だからこそ描く楽しさがある。</description>
+      <description>好きな絵を選んでね。ない？なら描いて展示するといい。</description>
     </item>
     <item>
       <title>脱構造主義</title>
@@ -118,7 +167,7 @@
       <link>http://localhost:1313/posts/same_one/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/same_one/</guid>
-      <description>二人で分かち合うこどで、一つになる。</description>
+      <description>二人で分かち合うことで、一つになる。</description>
     </item>
   </channel>
 </rss>
