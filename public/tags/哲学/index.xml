@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Youtubeホーム画面</title>
+      <link>http://localhost:1313/posts/philosophy_youtube/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/philosophy_youtube/</guid>
+      <description>ここには、興味のアイデンティティが詰まっている。</description>
+    </item>
+    <item>
       <title>ポストモダン</title>
       <link>http://localhost:1313/posts/modernpost/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
@@ -16,11 +23,32 @@
       <description>いつになったらこのポストは撤去されるんだ？</description>
     </item>
     <item>
+      <title>意味ってあるの？</title>
+      <link>http://localhost:1313/posts/iminani/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/iminani/</guid>
+      <description>きっと嫌な顔をして反応してくれる。</description>
+    </item>
+    <item>
+      <title>真摯な挨拶</title>
+      <link>http://localhost:1313/posts/hello_abyss/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hello_abyss/</guid>
+      <description>混ざらない白と黒。</description>
+    </item>
+    <item>
       <title>誠実な告白</title>
       <link>http://localhost:1313/posts/sufferer/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/sufferer/</guid>
       <description>喜怒哀楽と、期待と諦めのセット。</description>
+    </item>
+    <item>
+      <title>哲学者監督</title>
+      <link>http://localhost:1313/posts/movie_and_philosophia/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/movie_and_philosophia/</guid>
+      <description>カット！君の動きには思想がないよ。</description>
     </item>
     <item>
       <title>哲学とロック</title>

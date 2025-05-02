@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>疑問符 on ふわふわディストーション</title>
+    <link>http://localhost:1313/tags/%E7%96%91%E5%95%8F%E7%AC%A6/</link>
+    <description>Recent content in 疑問符 on ふわふわディストーション</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%96%91%E5%95%8F%E7%AC%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「詩」って何？</title>
+      <link>http://localhost:1313/posts/what_is_poem/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_poem/</guid>
+      <description>とりあえずそう呼んでいる。</description>
+    </item>
+    <item>
+      <title>意味ってあるの？</title>
+      <link>http://localhost:1313/posts/iminani/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/iminani/</guid>
+      <description>きっと嫌な顔をして反応してくれる。</description>
+    </item>
+    <item>
+      <title>「かわいい」って何？</title>
+      <link>http://localhost:1313/posts/anti_kawaii/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/anti_kawaii/</guid>
+      <description>コミュニケーションのための誠実な疑問。</description>
+    </item>
+  </channel>
+</rss>

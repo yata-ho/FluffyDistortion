@@ -1,9 +1,12 @@
 ---
-date: "2025-04-27"
-title: "死後の世界について"
-summary: "空白。だからこそ描く楽しさがある。"
-tags: ["メタ", "皮肉"]
-categories: ["ユーモア"]
+date: 2025-04-27
+title: 死後の世界について
+summary: 好きな絵を選んでね。ない？なら描いて展示するといい。
+tags:
+  - メタ
+  - 皮肉
+categories:
+  - ユーモア
 showToc: true
 ShowBreadCrumbs: true
 ShowReadingTime: true

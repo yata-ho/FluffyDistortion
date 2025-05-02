@@ -9,11 +9,32 @@
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E3%83%A1%E3%82%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ユウモア論</title>
+      <link>http://localhost:1313/posts/what_is_humor/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_humor/</guid>
+      <description>このユーモアは解説によって陳腐化される。</description>
+    </item>
+    <item>
       <title>暗号学</title>
       <link>http://localhost:1313/posts/cryptography/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/cryptography/</guid>
       <description>楽しみ方について学んでみよう。</description>
+    </item>
+    <item>
+      <title>意味ってあるの？</title>
+      <link>http://localhost:1313/posts/iminani/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/iminani/</guid>
+      <description>きっと嫌な顔をして反応してくれる。</description>
+    </item>
+    <item>
+      <title>死後の世界について</title>
+      <link>http://localhost:1313/posts/after_world/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/after_world/</guid>
+      <description>空白。だからこそ描く楽しさがある。</description>
     </item>
     <item>
       <title>勇者と魔王</title>
