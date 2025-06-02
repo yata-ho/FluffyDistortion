@@ -43,6 +43,7 @@ title = 'ふわふわディストーション'
   ShowCategories = true
   ShowPostNavLinks = true
   ShowPostMeta = true
+  wordsPerMinute = 160
 
     [[params.socialIcons]]
         name = "twitter"

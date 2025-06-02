@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Noteコピー on ふわふわディストーション</title>
+    <link>http://localhost:1313/tags/note%E3%82%B3%E3%83%94%E3%83%BC/</link>
+    <description>Recent content in Noteコピー on ふわふわディストーション</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 23 May 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/note%E3%82%B3%E3%83%94%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>『魔女と魔女裁判』読書レビュー</title>
+      <link>http://localhost:1313/posts/hexe_und_hexenprozesse/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hexe_und_hexenprozesse/</guid>
+      <description>中世～近世の妄想と闘争の歴史。</description>
+    </item>
+  </channel>
+</rss>

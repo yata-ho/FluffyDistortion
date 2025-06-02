@@ -6,7 +6,7 @@
     <description>Recent content in Posts on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>開場のお知らせ</title>
@@ -14,6 +14,62 @@
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/notice/</guid>
       <description>ふわふわディストーションが始まった！</description>
+    </item>
+    <item>
+      <title>コペルニクス的転回</title>
+      <link>http://localhost:1313/posts/copernican_revolution/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/copernican_revolution/</guid>
+      <description>より大きく、占星術の……天文学の外へ。</description>
+    </item>
+    <item>
+      <title>ハラスメント</title>
+      <link>http://localhost:1313/posts/logical_harassment/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/logical_harassment/</guid>
+      <description>嫌われ者は追い出そう。</description>
+    </item>
+    <item>
+      <title>机上の空間</title>
+      <link>http://localhost:1313/posts/i_hate_dimension/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/i_hate_dimension/</guid>
+      <description>きっと、目を閉じて生きれば悩むことはない。</description>
+    </item>
+    <item>
+      <title>試験嫌い</title>
+      <link>http://localhost:1313/posts/i_hate_test/</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/i_hate_test/</guid>
+      <description>構造主義の一つ。</description>
+    </item>
+    <item>
+      <title>相対→素材主義</title>
+      <link>http://localhost:1313/posts/funny_is/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/funny_is/</guid>
+      <description>一つの星が死んだ。</description>
+    </item>
+    <item>
+      <title>博愛の国</title>
+      <link>http://localhost:1313/posts/french/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/french/</guid>
+      <description>理想は皮肉の対象になる。</description>
+    </item>
+    <item>
+      <title>抑圧、血、勝利</title>
+      <link>http://localhost:1313/posts/german/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/german/</guid>
+      <description>正解はないが、不正解はあった。</description>
+    </item>
+    <item>
+      <title>『魔女と魔女裁判』読書レビュー</title>
+      <link>http://localhost:1313/posts/hexe_und_hexenprozesse/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/hexe_und_hexenprozesse/</guid>
+      <description>中世～近世の妄想と闘争の歴史。</description>
     </item>
     <item>
       <title>もふもふフェスティバル</title>
