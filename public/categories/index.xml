@@ -6,19 +6,26 @@
     <description>Recent content in Categories on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ユーモア</title>
       <link>http://localhost:1313/categories/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2/</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>エッセイ</title>
+      <link>http://localhost:1313/categories/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/categories/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</guid>
       <description></description>
     </item>
     <item>
       <title>レビュー</title>
       <link>http://localhost:1313/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC/</guid>
       <description></description>
     </item>

@@ -6,8 +6,15 @@
     <description>Recent content in コメディ on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>つまらないって何？</title>
+      <link>http://localhost:1313/posts/what_is_boring/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_boring/</guid>
+      <description>つまらないのは誰のせい？</description>
+    </item>
     <item>
       <title>流れ星</title>
       <link>http://localhost:1313/posts/shooting_star/</link>

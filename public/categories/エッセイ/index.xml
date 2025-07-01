@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>エッセイ on ふわふわディストーション</title>
+    <link>http://localhost:1313/categories/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/</link>
+    <description>Recent content in エッセイ on ふわふわディストーション</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>学問って何？</title>
+      <link>http://localhost:1313/posts/what_is_academics/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_academics/</guid>
+      <description>ここはどこだ！？民俗学？社会心理学？何にせよ、見方の構造の差異だ。</description>
+    </item>
+    <item>
+      <title>本当はって何？</title>
+      <link>http://localhost:1313/posts/what_is_really/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_really/</guid>
+      <description>唯一性の瓦解。多面体の観察。</description>
+    </item>
+  </channel>
+</rss>

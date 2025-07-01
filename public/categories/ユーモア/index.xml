@@ -6,8 +6,43 @@
     <description>Recent content in ユーモア on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/%E3%83%A6%E3%83%BC%E3%83%A2%E3%82%A2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1984・猫</title>
+      <link>http://localhost:1313/posts/1984cat/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/1984cat/</guid>
+      <description>BIG CAT WATING YOU</description>
+    </item>
+    <item>
+      <title>つまらないって何？</title>
+      <link>http://localhost:1313/posts/what_is_boring/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_boring/</guid>
+      <description>つまらないのは誰のせい？</description>
+    </item>
+    <item>
+      <title>幸せって何？</title>
+      <link>http://localhost:1313/posts/what_is_fortune/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_fortune/</guid>
+      <description>非常に凡庸で、同時に多大な悩みでもある。</description>
+    </item>
+    <item>
+      <title>哲学ダラ話～評価形容詞の意味について～</title>
+      <link>http://localhost:1313/posts/nothing_meaning/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/nothing_meaning/</guid>
+      <description>時間さえあればなんとかなる。</description>
+    </item>
+    <item>
+      <title>評価否定</title>
+      <link>http://localhost:1313/posts/what_is_kawaii_and_beauty/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_kawaii_and_beauty/</guid>
+      <description>価値は不定、時間は一定。</description>
+    </item>
     <item>
       <title>コペルニクス的転回</title>
       <link>http://localhost:1313/posts/copernican_revolution/</link>

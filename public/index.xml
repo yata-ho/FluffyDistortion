@@ -6,7 +6,7 @@
     <description>Recent content on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>開場のお知らせ</title>
@@ -14,6 +14,62 @@
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/notice/</guid>
       <description>ふわふわディストーションが始まった！</description>
+    </item>
+    <item>
+      <title>1984・猫</title>
+      <link>http://localhost:1313/posts/1984cat/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/1984cat/</guid>
+      <description>BIG CAT WATING YOU</description>
+    </item>
+    <item>
+      <title>つまらないって何？</title>
+      <link>http://localhost:1313/posts/what_is_boring/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_boring/</guid>
+      <description>つまらないのは誰のせい？</description>
+    </item>
+    <item>
+      <title>学問って何？</title>
+      <link>http://localhost:1313/posts/what_is_academics/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_academics/</guid>
+      <description>ここはどこだ！？民俗学？社会心理学？何にせよ、見方の構造の差異だ。</description>
+    </item>
+    <item>
+      <title>狂気、認識、解剖。黄昏の少女愛『さよならを教えて』感想及び考察</title>
+      <link>http://localhost:1313/posts/comment-te-dire-adieu/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/comment-te-dire-adieu/</guid>
+      <description>そうです。あのコが僕の畏敬する天使様なのです</description>
+    </item>
+    <item>
+      <title>幸せって何？</title>
+      <link>http://localhost:1313/posts/what_is_fortune/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_fortune/</guid>
+      <description>非常に凡庸で、同時に多大な悩みでもある。</description>
+    </item>
+    <item>
+      <title>哲学ダラ話～評価形容詞の意味について～</title>
+      <link>http://localhost:1313/posts/nothing_meaning/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/nothing_meaning/</guid>
+      <description>時間さえあればなんとかなる。</description>
+    </item>
+    <item>
+      <title>本当はって何？</title>
+      <link>http://localhost:1313/posts/what_is_really/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_really/</guid>
+      <description>唯一性の瓦解。多面体の観察。</description>
+    </item>
+    <item>
+      <title>評価否定</title>
+      <link>http://localhost:1313/posts/what_is_kawaii_and_beauty/</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_kawaii_and_beauty/</guid>
+      <description>価値は不定、時間は一定。</description>
     </item>
     <item>
       <title>コペルニクス的転回</title>
