@@ -1,3 +1,19 @@
-<head>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head.html" . }}
+    {{ $styles := resources.Get "css/progress-bar.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}">
     <link href="https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;500;600;700;900&display=swap" rel="stylesheet">
-</head>
+  </head>
+  <body>
+    <div id="reading-progress"></div>
+
+    {{ partial "header.html" . }}
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer.html" . }}
+
+    {{ $script := resources.Get "js/progress-bar.js" | minify | fingerprint }}
+    <script src="{{ $script.Permalink }}"></script>
+  </body>
+</html>

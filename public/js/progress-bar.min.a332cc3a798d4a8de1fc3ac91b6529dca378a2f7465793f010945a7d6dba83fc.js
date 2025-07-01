@@ -1,0 +1,1 @@
+window.addEventListener("scroll",()=>{const e=document.getElementById("reading-progress"),t=document.body.scrollHeight-window.innerHeight,n=window.scrollY/t*100;e.style.width=n+"%"})

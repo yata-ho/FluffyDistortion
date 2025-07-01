@@ -1,0 +1,35 @@
+<style>
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 7px;
+  height: 100%;
+  z-index: 9999;
+  background: linear-gradient(
+    to bottom,
+    #a2d2ff,
+    #83b3dd,
+    #5c91bb,
+    #376e99,
+    #0f4c75,
+    #06283d
+  );
+  transform-origin: top;
+  transform: scaleY(0);
+  transition: transform 0.2s ease-out;
+}
+</style>
+
+<script>
+window.addEventListener("scroll", () => {
+  const bar = document.getElementById("reading-progress");
+  if (!bar) return;
+
+  const total = document.documentElement.scrollHeight - window.innerHeight;
+  const progress = window.scrollY / total;
+  bar.style.transform = `scaleY(${progress})`;
+});
+</script>
+
+<div id="reading-progress"></div>
