@@ -2,7 +2,7 @@
 date: "2025-04-27"
 title: "ビューティフル・ワールド"
 summary: "共有されないイデア。"
-tag: ["オタク"]
+tags: ["オタク"]
 categories: ["ユーモア"]
 showToc: true
 ShowBreadCrumbs: true

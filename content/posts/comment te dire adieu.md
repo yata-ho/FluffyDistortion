@@ -2,7 +2,7 @@
 date: "2025-07-01"
 title: "狂気、認識、解剖。黄昏の少女愛『さよならを教えて』感想及び考察"
 summary: "そうです。あのコが僕の畏敬する天使様なのです"
-tags: ["ノベル","哲学","狂気"]
+tags: ["ノベル","哲学","狂気","noteコピー"]
 categories: ["レビュー"]
 showToc: true
 ShowBreadCrumbs: true
