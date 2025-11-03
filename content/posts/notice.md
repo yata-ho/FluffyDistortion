@@ -1,14 +1,12 @@
 ---
-
 date: "2025-04-26"
-title: "開場のお知らせ"
+title: "会場のお知らせ"
 summary: "ふわふわディストーションが始まった！"
-categories : ["お知らせ"]
+tags: [""]
+categories: ["お知らせ"]
 showToc: true
 ShowBreadCrumbs: true
 ShowReadingTime: true
-weight: 1
-
 ---
 
 プラットフォームに依存しない、書くための居場所がほしいなと思って開設しました。
