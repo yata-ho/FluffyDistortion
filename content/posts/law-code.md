@@ -33,6 +33,6 @@ ShowReadingTime: true
 
 『……コード？法文じゃん！』
 
-「いやだからコード<code>でしょ。ローコード<law-code>。」
+「いやだからコード\<code>でしょ。ローコード\<law-code>。」
 
 『ややこしいわ！』
