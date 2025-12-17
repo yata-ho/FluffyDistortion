@@ -258,7 +258,7 @@ window.addEventListener("scroll", () => {
         border: 1px solid var(--border);
         padding: 30px;
         border-radius: 8px;
-        max-height: 450px;
+        max-height: 500px;
         overflow-y: auto;
         width: 400px;
         box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
@@ -267,12 +267,21 @@ window.addEventListener("scroll", () => {
     #floating-toc-content.show { display: block; }
     .floating-toc-hidden { display: none; }
 
-    @media screen and (min-width: 768px) {
-    #floating-toc-container { bottom: 20px; left: 20px; }
+    @media screen and (min-width: 768px) and (orientation: landscape) {
+        #floating-toc-container { bottom: 5%; left: 30%; }
+        #floating-toc-content {width: 550px;}
+    }
+    @media screen and (min-width: 768px) and (orientation: portrait) {
+        #floating-toc-container {
+            bottom: 5%;
+            left: 10%;
+            transform: translateX(-50%);
+        }
+        #floating-toc-content {max-height: 700px;}
     }
     @media screen and (max-width: 767px) {
         #floating-toc-container { bottom: 20px; left: 50%; transform: translateX(-50%); }
-        #floating-toc-content {width: 250px;}
+        #floating-toc-content {width: 250px; max-height: 400px;}
     }
 </style>
 

@@ -3,6 +3,11 @@ title: "『自分騙り』―自己紹介についての自己紹介"
 showToc: true
 ShowBreadCrumbs: true
 ShowReadingTime: true
+hidemeta: true  # 投稿日などのメタ情報を隠したい場合
+hidden: true    # 一覧から隠す
+_build:
+  list: never    # 一覧ページ（ホーム、カテゴリ、アーカイブ等）に表示しない
+  render: always # URLにアクセスすればページ自体は生成（表示）する
 ---
 
 # 概要
