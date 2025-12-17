@@ -9,6 +9,9 @@ title = 'ふわふわディストーション'
   category = "categories"
   tag = "tags"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 
 [menu]
     [[menu.main]]
@@ -43,7 +46,9 @@ title = 'ふわふわディストーション'
   ShowCategories = true
   ShowPostNavLinks = true
   ShowPostMeta = true
-
+  disableScrollToTop = false
+  showtoc = true
+  TocOpen = true
 
     [[params.socialIcons]]
         name = "twitter"

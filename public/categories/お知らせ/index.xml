@@ -6,10 +6,24 @@
     <description>Recent content in お知らせ on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>開場のお知らせ</title>
+      <title>お知らせ: 便利なボタンの実装</title>
+      <link>http://localhost:1313/posts/floating_button/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/floating_button/</guid>
+      <description>長文には欠かせない機能！</description>
+    </item>
+    <item>
+      <title>お知らせ: feed対応してます</title>
+      <link>http://localhost:1313/posts/feed/</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/feed/</guid>
+      <description>すごい今更の情報。</description>
+    </item>
+    <item>
+      <title>会場のお知らせ</title>
       <link>http://localhost:1313/posts/notice/</link>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/posts/notice/</guid>

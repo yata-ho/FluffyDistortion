@@ -1,0 +1,114 @@
+{{- if (and .Params.ShowToc (not .Params.hideToc)) -}}
+<div id="floating-toc-container" class="floating-toc-hidden">
+    <button id="toc-toggle-btn" title="Go to Top (Double Click) / Table of Contents (Single Click)">
+        <span class="icon">☰</span>
+    </button>
+    <div id="floating-toc-content">
+        </div>
+</div>
+
+<style>
+    /* （以下、先ほどお送りしたCSSと同じ） */
+    #floating-toc-container {
+        position: fixed;
+        z-index: 999;
+        transition: all 0.3s ease;
+    }
+
+    #toc-toggle-btn {
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        background: rgb(97, 176, 207);
+        color: white;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        opacity: 0.55;
+        backdrop-filter: blur(5px); /* 背景をぼかす（モダンなデザイン） */
+    }
+
+    #toc-toggle-btn:hover {
+    opacity: 1.0;               /* マウスを乗せたときだけハッキリ見せる */
+    }
+
+    #floating-toc-content {
+        display: none;
+        position: absolute;
+        bottom: 60px;
+        background: var(--code-bg);
+        border: 1px solid var(--border);
+        padding: 30px;
+        border-radius: 8px;
+        max-height: 500px;
+        overflow-y: auto;
+        width: 400px;
+        box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
+    }
+
+    #floating-toc-content.show { display: block; }
+    .floating-toc-hidden { display: none; }
+
+    @media screen and (min-width: 768px) and (orientation: landscape) {
+        #floating-toc-container { bottom: 5%; left: 30%; }
+        #floating-toc-content {width: 550px;}
+    }
+    @media screen and (min-width: 768px) and (orientation: portrait) {
+        #floating-toc-container {
+            bottom: 5%;
+            left: 10%;
+            transform: translateX(-50%);
+        }
+        #floating-toc-content {max-height: 700px;}
+    }
+    @media screen and (max-width: 767px) {
+        #floating-toc-container { bottom: 20px; left: 50%; transform: translateX(-50%); }
+        #floating-toc-content {width: 250px; max-height: 400px;}
+    }
+</style>
+
+<script>
+    /* （以下、先ほどお送りしたJSと同じ） */
+    document.addEventListener("DOMContentLoaded", function() {
+        const container = document.getElementById("floating-toc-container");
+        if (!container) return; // コンテナがない場合は終了
+
+        const btn = document.getElementById("toc-toggle-btn");
+        const content = document.getElementById("floating-toc-content");
+        const originalToc = document.querySelector(".toc .inner");
+
+        if (originalToc && originalToc.children.length > 0) {
+            container.classList.remove("floating-toc-hidden");
+            content.appendChild(originalToc.cloneNode(true));
+        } else {
+            return;
+        }
+
+        let clickTimer = null;
+
+        btn.addEventListener("click", function(e) {
+            if (clickTimer == null) {
+                clickTimer = setTimeout(function() {
+                    clickTimer = null;
+                    content.classList.toggle("show");
+                }, 250);
+            } else {
+                clearTimeout(clickTimer);
+                clickTimer = null;
+                window.scrollTo({ top: 0, behavior: "smooth" });
+                content.classList.remove("show");
+            }
+        });
+
+        document.addEventListener("click", function(e) {
+            if (!container.contains(e.target)) {
+                content.classList.remove("show");
+            }
+        });
+
+        content.addEventListener("click", (e) => {
+            if(e.target.tagName === 'A') content.classList.remove("show");
+        });
+    });
+</script>
+{{- end -}}

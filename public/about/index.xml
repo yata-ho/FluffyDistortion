@@ -1,12 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>自己紹介と、ここ紹介 on ふわふわディストーション</title>
+    <title>ふわふわディストーション</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in 自己紹介と、ここ紹介 on ふわふわディストーション</description>
+    <description>Recent content on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>『自分騙り』―自己紹介についての自己紹介</title>
+      <link>http://localhost:1313/about/talk_about_myself/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/talk_about_myself/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;
+&lt;p&gt;「お前は何を言っているんだ？何と戦っているんだ？」&lt;/p&gt;
+&lt;p style=&#34;text-align: right;&#34;&gt;『内なる敵……仮想敵です。』&lt;/p&gt;
+&lt;h1 id=&#34;本文&#34;&gt;本文&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/note_first.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;noteの最初の記事として自己紹介が推奨されていたんだっけ……と、サムネイルを見つけて思い出した。&lt;/p&gt;
+&lt;p&gt;でも、自己紹介として見せたい自分がなかった。 いや、書いてきた記事の主題に対する意見に自分がこもっていたから、その必要がなかった。&lt;/p&gt;
+&lt;p&gt;ニュースを見る時にライターを気にしないように。&lt;br&gt;
+本を読むときに作者について調べないように……。&lt;br&gt;
+それなら、私だってわざわざ自分について語る必要がない。&lt;/p&gt;
+&lt;p&gt;記事のトピックを選び、何を捨て、何を書いたか、その編集こそが私。それ自体が自己表現を伴っている。&lt;/p&gt;
+&lt;p&gt;だからといって人の自己紹介にとやかく言わないよ。これは自分のスタンスの話。&lt;br&gt;
+とは言っても、単に分かりづらいだけでは「お前は何を言っているんだ」だ。&lt;br&gt;
+せめて、形式だけでもちゃんとやろう。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;さて、yataとはどんな人間なのでしょうか？早速探ってみましょう。&lt;/p&gt;
+&lt;p&gt;note, VRChat, Xなどを巡回していて、主に言語活動を好んでいるようです。&lt;/p&gt;
+&lt;p&gt;noteではレビューが多く、自分の意見を不特定多数に公開しているみたいですね。&lt;/p&gt;
+&lt;p&gt;VRChatではnoteとは違って自己紹介文を書いているようです。どうやら興味のある雑談テーマを伝えるために書いているみたいですね。&lt;/p&gt;
+&lt;p&gt;XではVRChat外の活動、短文日記など雑多な投稿が多い様子。大した文章は書かれていませんね。&lt;/p&gt;
+&lt;p&gt;そしてどの活動場所においても、話題のジャンルに一貫性がありません。&lt;/p&gt;
+&lt;p&gt;では、ここでインタビューをしてみましょう。&lt;/p&gt;
+&lt;p&gt;Q.1&lt;br&gt;
+なぜnoteを始めようと思ったのですか？&lt;/p&gt;
+&lt;p&gt;A.1&lt;br&gt;
+VRChatのフレンドが書いていたので、なんとなく。&lt;/p&gt;
+&lt;p&gt;Q.2&lt;br&gt;
+その「なんとなく」で10記事書いてきているようですが？&lt;/p&gt;
+&lt;p&gt;A.2&lt;br&gt;
+考えたこと、記録したことのまとめとして、noteを使っている。文章構成やタイピングの練習にもなるのがいいね。&lt;/p&gt;
+&lt;p&gt;Q.3&lt;br&gt;
+今どんなことに興味がありますか？&lt;/p&gt;
+&lt;p&gt;A.3&lt;br&gt;
+それを言ったら今後、note記事を書くネタバレと、書く責任を生まないかな？&lt;br&gt;
+そうだな……面白いと思える要素なら言える。&amp;ldquo;メタ・シニカル・ナンセンス&amp;quot;の3つかな。&lt;/p&gt;
+&lt;p&gt;Q.4&lt;br&gt;
+その3つそれぞれにどんなところで惹かれているのですか？&lt;/p&gt;
+&lt;p&gt;A.4&lt;br&gt;
+メタ思考・構造、皮肉、無意味さ……好みやすいユーモアの特徴なんだよ。まぁ、結局全部……無意味になるんだけどさ。&lt;br&gt;
+意味を繰り返せば段々とゲシュタルト崩壊のように、意味の重要性を失っていくだろう？&lt;br&gt;
+皮肉も同じだ。ブラックユーモアなんかも好きだけど、人を傷つけたいわけじゃない。意味の飛躍や単純化によって人や歴史を解釈するのが面白いってだけだよ。&lt;/p&gt;
+&lt;p&gt;Q.5&lt;br&gt;
+面白い記事を書くにはその要素が必要だと思いますか？&lt;/p&gt;
+&lt;p&gt;A.5&lt;br&gt;
+多かれ少なかれ、今まで書いた記事に含まれるかもしれない。&lt;br&gt;
+このインタビューこそユーモアや意味の解体なんだけど。&lt;/p&gt;
+&lt;p&gt;……&lt;/p&gt;
+&lt;p&gt;いかがでしたか？「質問内容がつまらない」としてインタビューは中断となりました……&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;いかがでしたか？自己紹介ってどうも単なる説明にしかならないから、面白みがない。&lt;br&gt;
+そもそも自明なことを延々と垂れ流すものだから、苦しい。&lt;/p&gt;
+&lt;p&gt;何が面白いかの評価は他者判断に委ねられるが、自分でも面白いと思えないものを出せる倫理は持っていない。&lt;br&gt;
+でも、今はこれが限界だ。&lt;/p&gt;
+&lt;p&gt;ただ、世の中には&amp;quot;なんでウケているかわからない&amp;quot;と主演が思っている昼飯ドラマもある。……そういうものなのかもしれない。&lt;/p&gt;
+&lt;p&gt;うーん。もしかしたらこれは最も頭と胃が痛くなる自己欺瞞……自傷行為なのかもしれない。&lt;/p&gt;
+&lt;p&gt;まぁ、偶像崇拝によって自己とイメージが乖離するロックスターよりはマシなんだろうな。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

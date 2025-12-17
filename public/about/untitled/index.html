@@ -103,6 +103,26 @@
                     <span>Home</span>
                 </a>
             </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/categories/" title="Categories">
+                    <span>Categories</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -114,87 +134,159 @@
     <h1 class="post-title entry-hint-parent">
       
     </h1>
-    <div class="post-meta">0 分&nbsp;·&nbsp;yata
+    <div class="post-meta">読了時間：1分未満&nbsp;·&nbsp;yata
+
 
 </div>
   </header> 
 
+
   <footer class="post-footer">
     <ul class="post-tags">
+      
+
     </ul>
+
+    
   </footer>
 </article>
     </main>
-    
-<footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">ふわふわディストーション</a></span> · 
-
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
+    <style>
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 7px;
+  height: 100%;
+  z-index: 9999;
+  background: linear-gradient(
+    to bottom,
+    #a2d2ff,
+    #83b3dd,
+    #5c91bb,
+    #376e99
+  );
+  transform-origin: top;
+  transform: scaleY(0);
+  transition: transform 0.2s ease-out;
+}
+</style>
 
 <script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
+window.addEventListener("scroll", () => {
+  const bar = document.getElementById("reading-progress");
+  if (!bar) return;
+
+  const total = document.documentElement.scrollHeight - window.innerHeight;
+  const progress = window.scrollY / total;
+  bar.style.transform = `scaleY(${progress})`;
+});
+</script>
+
+
+
+<div id="reading-progress"></div><div id="floating-toc-container" class="floating-toc-hidden">
+    <button id="toc-toggle-btn" title="Go to Top (Double Click) / Table of Contents (Single Click)">
+        <span class="icon">☰</span>
+    </button>
+    <div id="floating-toc-content">
+        </div>
+</div>
+
+<style>
+     
+    #floating-toc-container {
+        position: fixed;
+        z-index: 999;
+        transition: all 0.3s ease;
     }
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
+    #toc-toggle-btn {
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        background: rgb(97, 176, 207);
+        color: white;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        opacity: 0.55;
+        backdrop-filter: blur(5px);  
+    }
+
+    #toc-toggle-btn:hover {
+    opacity: 1.0;                
+    }
+
+    #floating-toc-content {
+        display: none;
+        position: absolute;
+        bottom: 60px;
+        background: var(--code-bg);
+        border: 1px solid var(--border);
+        padding: 30px;
+        border-radius: 8px;
+        max-height: 450px;
+        overflow-y: auto;
+        width: 400px;
+        box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
+    }
+
+    #floating-toc-content.show { display: block; }
+    .floating-toc-hidden { display: none; }
+
+    @media screen and (min-width: 768px) {
+    #floating-toc-container { bottom: 20px; left: 20px; }
+    }
+    @media screen and (max-width: 767px) {
+        #floating-toc-container { bottom: 20px; left: 50%; transform: translateX(-50%); }
+        #floating-toc-content {width: 250px;}
+    }
+</style>
+
+<script>
+     
+    document.addEventListener("DOMContentLoaded", function() {
+        const container = document.getElementById("floating-toc-container");
+        if (!container) return; 
+
+        const btn = document.getElementById("toc-toggle-btn");
+        const content = document.getElementById("floating-toc-content");
+        const originalToc = document.querySelector(".toc .inner");
+
+        if (originalToc && originalToc.children.length > 0) {
+            container.classList.remove("floating-toc-hidden");
+            content.appendChild(originalToc.cloneNode(true));
+        } else {
+            return;
+        }
+
+        let clickTimer = null;
+
+        btn.addEventListener("click", function(e) {
+            if (clickTimer == null) {
+                clickTimer = setTimeout(function() {
+                    clickTimer = null;
+                    content.classList.toggle("show");
+                }, 250);
             } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
+                clearTimeout(clickTimer);
+                clickTimer = null;
+                window.scrollTo({ top: 0, behavior: "smooth" });
+                content.classList.remove("show");
             }
         });
+
+        document.addEventListener("click", function(e) {
+            if (!container.contains(e.target)) {
+                content.classList.remove("show");
+            }
+        });
+
+        content.addEventListener("click", (e) => {
+            if(e.target.tagName === 'A') content.classList.remove("show");
+        });
     });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-</body>
+</script></body>
 
 </html>

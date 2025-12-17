@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E3%82%AA%E3%82%BF%E3%82%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ビューティフル・ワールド</title>
+      <link>http://localhost:1313/posts/beautiful_world/</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/beautiful_world/</guid>
+      <description>共有されないイデア。</description>
+    </item>
+    <item>
       <title>勇者と魔王</title>
       <link>http://localhost:1313/posts/game_friend/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0900</pubDate>

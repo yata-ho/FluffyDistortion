@@ -6,8 +6,15 @@
     <description>Recent content in 疑問符 on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E7%96%91%E5%95%8F%E7%AC%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>大人って何？</title>
+      <link>http://localhost:1313/posts/what_is_adult/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/what_is_adult/</guid>
+      <description>誰しもが疑問を持ち、目指し、そしていずれ至るもの。</description>
+    </item>
     <item>
       <title>つまらないって何？</title>
       <link>http://localhost:1313/posts/what_is_boring/</link>

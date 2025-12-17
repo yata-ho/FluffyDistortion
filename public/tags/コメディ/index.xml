@@ -6,8 +6,36 @@
     <description>Recent content in コメディ on ふわふわディストーション</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E3%82%B3%E3%83%A1%E3%83%87%E3%82%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>抹茶の悲喜劇</title>
+      <link>http://localhost:1313/posts/%E6%8A%B9%E8%8C%B6%E3%81%AE%E6%82%B2%E5%96%9C%E5%8A%87/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%E6%8A%B9%E8%8C%B6%E3%81%AE%E6%82%B2%E5%96%9C%E5%8A%87/</guid>
+      <description>密かな楽しみは口にすべからず。</description>
+    </item>
+    <item>
+      <title>テンシュカク</title>
+      <link>http://localhost:1313/posts/tensyukaku/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/tensyukaku/</guid>
+      <description>その文字に思想あり。</description>
+    </item>
+    <item>
+      <title>コードリーディング</title>
+      <link>http://localhost:1313/posts/law-code/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/law-code/</guid>
+      <description>実行に支障がないようによく読もう。</description>
+    </item>
+    <item>
+      <title>たった一曲</title>
+      <link>http://localhost:1313/posts/time_for_just_one_song/</link>
+      <pubDate>Sun, 30 Nov 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/posts/time_for_just_one_song/</guid>
+      <description>そこには制作者の時間と思考が詰まっている。</description>
+    </item>
     <item>
       <title>つまらないって何？</title>
       <link>http://localhost:1313/posts/what_is_boring/</link>

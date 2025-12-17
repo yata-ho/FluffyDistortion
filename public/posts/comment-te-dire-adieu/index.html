@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
 <title>狂気、認識、解剖。黄昏の少女愛『さよならを教えて』感想及び考察 | ふわふわディストーション</title>
-<meta name="keywords" content="ノベル, 哲学, 狂気">
+<meta name="keywords" content="ノベル, 哲学, 狂気, noteコピー">
 <meta name="description" content="そうです。あのコが僕の畏敬する天使様なのです">
 <meta name="author" content="yata">
 <link rel="canonical" href="http://localhost:1313/posts/comment-te-dire-adieu/">
@@ -134,12 +134,12 @@
     <h1 class="post-title entry-hint-parent">
       狂気、認識、解剖。黄昏の少女愛『さよならを教えて』感想及び考察
     </h1>
-    <div class="post-meta"><span title='2025-07-01 00:00:00 +0900 JST'>7月 1, 2025</span>&nbsp;·&nbsp;読了時間：約%!d(float64=30)分&nbsp;·&nbsp;yata
+    <div class="post-meta"><span title='2025-07-01 00:00:00 +0900 JST'>7月 1, 2025</span>&nbsp;·&nbsp;読了時間：約30分&nbsp;·&nbsp;yata
 
 
 </div>
   </header> <div class="toc">
-    <details >
+    <details  open>
         <summary accesskey="c" title="(Alt + C)">
             <span class="details">目次</span>
         </summary>
@@ -755,6 +755,7 @@
       <li><a href="http://localhost:1313/tags/%E3%83%8E%E3%83%99%E3%83%AB/">ノベル</a></li>
       <li><a href="http://localhost:1313/tags/%E5%93%B2%E5%AD%A6/">哲学</a></li>
       <li><a href="http://localhost:1313/tags/%E7%8B%82%E6%B0%97/">狂気</a></li>
+      <li><a href="http://localhost:1313/tags/note%E3%82%B3%E3%83%94%E3%83%BC/">Noteコピー</a></li>
 
     </ul>
 <nav class="paginav">
@@ -787,9 +788,7 @@
     #a2d2ff,
     #83b3dd,
     #5c91bb,
-    #376e99,
-    #0f4c75,
-    #06283d
+    #376e99
   );
   transform-origin: top;
   transform: scaleY(0);
@@ -808,7 +807,110 @@ window.addEventListener("scroll", () => {
 });
 </script>
 
-<div id="reading-progress"></div>
-</body>
+
+
+<div id="reading-progress"></div><div id="floating-toc-container" class="floating-toc-hidden">
+    <button id="toc-toggle-btn" title="Go to Top (Double Click) / Table of Contents (Single Click)">
+        <span class="icon">☰</span>
+    </button>
+    <div id="floating-toc-content">
+        </div>
+</div>
+
+<style>
+     
+    #floating-toc-container {
+        position: fixed;
+        z-index: 999;
+        transition: all 0.3s ease;
+    }
+
+    #toc-toggle-btn {
+        width: 55px;
+        height: 55px;
+        border-radius: 50%;
+        background: rgb(97, 176, 207);
+        color: white;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        opacity: 0.55;
+        backdrop-filter: blur(5px);  
+    }
+
+    #toc-toggle-btn:hover {
+    opacity: 1.0;                
+    }
+
+    #floating-toc-content {
+        display: none;
+        position: absolute;
+        bottom: 60px;
+        background: var(--code-bg);
+        border: 1px solid var(--border);
+        padding: 30px;
+        border-radius: 8px;
+        max-height: 450px;
+        overflow-y: auto;
+        width: 400px;
+        box-shadow: 0 -5px 15px rgba(0,0,0,0.1);
+    }
+
+    #floating-toc-content.show { display: block; }
+    .floating-toc-hidden { display: none; }
+
+    @media screen and (min-width: 768px) {
+    #floating-toc-container { bottom: 20px; left: 20px; }
+    }
+    @media screen and (max-width: 767px) {
+        #floating-toc-container { bottom: 20px; left: 50%; transform: translateX(-50%); }
+        #floating-toc-content {width: 250px;}
+    }
+</style>
+
+<script>
+     
+    document.addEventListener("DOMContentLoaded", function() {
+        const container = document.getElementById("floating-toc-container");
+        if (!container) return; 
+
+        const btn = document.getElementById("toc-toggle-btn");
+        const content = document.getElementById("floating-toc-content");
+        const originalToc = document.querySelector(".toc .inner");
+
+        if (originalToc && originalToc.children.length > 0) {
+            container.classList.remove("floating-toc-hidden");
+            content.appendChild(originalToc.cloneNode(true));
+        } else {
+            return;
+        }
+
+        let clickTimer = null;
+
+        btn.addEventListener("click", function(e) {
+            if (clickTimer == null) {
+                clickTimer = setTimeout(function() {
+                    clickTimer = null;
+                    content.classList.toggle("show");
+                }, 250);
+            } else {
+                clearTimeout(clickTimer);
+                clickTimer = null;
+                window.scrollTo({ top: 0, behavior: "smooth" });
+                content.classList.remove("show");
+            }
+        });
+
+        document.addEventListener("click", function(e) {
+            if (!container.contains(e.target)) {
+                content.classList.remove("show");
+            }
+        });
+
+        content.addEventListener("click", (e) => {
+            if(e.target.tagName === 'A') content.classList.remove("show");
+        });
+    });
+</script></body>
 
 </html>
