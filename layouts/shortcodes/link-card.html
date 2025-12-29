@@ -1,0 +1,20 @@
+<div class="link-card">
+    <a href="{{ .Get "url" | safeURL }}" target="_blank" rel="noopener noreferrer" class="link-card-container">
+        {{ with .Get "image" }}
+        <div class="link-card-thumbnail">
+            <img src="{{ . }}" alt="thumbnail">
+        </div>
+        {{ end }}
+        <div class="link-card-content">
+            <div class="link-card-title">{{ .Get "title" }}</div>
+            
+            {{ with .Get "description" }}
+            <div class="link-card-description">{{ . }}</div>
+            {{ end }}
+            
+            <div class="link-card-footer">
+                <span class="link-card-url">{{ replace (replace (.Get "url") "https://" "") "http://" "" }}</span>
+            </div>
+        </div>
+    </a>
+</div>

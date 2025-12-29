@@ -1,0 +1,88 @@
+/* リンクカード全体のスタイル */
+.link-card {
+    margin: 1.5rem 0;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    background: var(--code-bg);
+}
+
+.link-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.link-card-container {
+    display: flex;
+    text-decoration: none !important;
+    color: var(--content) !important;
+    height: 120px; /* PCでの高さ */
+}
+
+/* サムネイル画像 */
+.link-card-thumbnail {
+    flex: 0 0 160px;
+    overflow: hidden;
+    border-right: 1px solid var(--border);
+}
+
+.link-card-thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin: 0 !important; /* Hugoのデフォルトマージン打ち消し */
+}
+
+/* テキストコンテンツ */
+.link-card-content {
+    flex: 1;
+    padding: 12px 16px;
+    display: flex;
+    flex-direction: column;
+    /* タイトルとフッターを上下に散らさず、自然に配置する */
+    justify-content: center; 
+    overflow: hidden;
+    gap: 4px; /* 要素間の隙間を一定にする */
+}
+
+.link-card-title {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 4px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.link-card-description {
+    font-size: 0.85rem;
+    color: var(--secondary);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.link-card-footer {
+    margin-top: auto;
+    font-size: 0.75rem;
+    color: var(--tertiary);
+}
+
+/* スマホ対応 */
+@media screen and (max-width: 600px) {
+    .link-card-container {
+        height: auto;
+        flex-direction: column-reverse; /* 小さい画面では画像が上、または画像なし */
+    }
+    .link-card-thumbnail {
+        flex: 0 0 120px;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+    }
+    .link-card-title {
+        white-space: normal;
+    }
+}
