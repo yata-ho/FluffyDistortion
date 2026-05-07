@@ -1,0 +1,16 @@
+name: Daily Netlify Rebuild
+
+on:
+  schedule:
+    # UTC 15:00 = JST 00:00
+    - cron: '0 15 * * *'
+
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Netlify Build
+        run: curl -X POST -d {} ${{ secrets.NETLIFY_BUILD_HOOK }}
