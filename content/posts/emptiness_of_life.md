@@ -2,8 +2,8 @@
 date: "2026-05-08"
 title: "生きるうえでの虚しさについて"
 summary: "快楽ゾンビにはなりたくない！"
-tags: ["noteコピー","本"]
-categories: ["レビュー"]
+tags: ["noteコピー",]
+categories: ["エッセイ"]
 showToc: true
 ShowBreadCrumbs: true
 ShowReadingTime: true
